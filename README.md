@@ -1,1 +1,3 @@
-# data-storage
+# Android курс. Data storage
+### Группа: 1371
+### Студентка: Писарева Ирина
